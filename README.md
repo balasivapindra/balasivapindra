@@ -1,4 +1,4 @@
-# Hi, I'm Bala Sivapindra 👋
+# Hi, I'm Balasiva pindra 👋
 
 **Sr. Data & AI Engineer** · Production pipelines · RAG systems · Full-stack SaaS
 
